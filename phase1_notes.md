@@ -23,3 +23,24 @@ Built: Created my first Git repository and made commits.
 Broke: cat: locked.txt: Permission denied
 
 Learned: Git tracks project changes using add and commit. File permissions control who can read or modify a file.
+
+
+
+# Day 3 - Thursday 19 November 2026
+
+**Built**
+- Created a GitHub repository and connected it to my local plantops project.
+- Pushed my project to GitHub.
+- Used curl to fetch two JSON records from a website.
+- Checked the HTTP status code and received 200.
+
+**Broke**
+- Changed the GitHub remote URL to an incorrect address.
+- Got the "Repository not found" error.
+- Fixed the remote URL using git remote set-url.
+
+**Learned**
+- How git push uploads commits to GitHub.
+- How curl fetches data from a website.
+- How JSON and HTTP status codes work.
+- How to identify and fix a wrong Git remote URL.
