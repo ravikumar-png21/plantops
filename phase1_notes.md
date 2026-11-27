@@ -44,3 +44,12 @@ Learned: Git tracks project changes using add and commit. File permissions contr
 - How curl fetches data from a website.
 - How JSON and HTTP status codes work.
 - How to identify and fix a wrong Git remote URL.
+
+
+# Day 4 - Friday 20 November 2026
+
+**Built:** Created a Git cheat sheet and practised Git branches and merging.
+
+**Broke:** Created merge conflicts intentionally and practised resolving and aborting them.
+
+**Learned:** How Git handles branches, automatic merges, merge conflicts, and `git merge --abort`.
